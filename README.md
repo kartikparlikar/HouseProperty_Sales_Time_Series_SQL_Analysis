@@ -13,4 +13,4 @@ Postcode: 4 digit postcode of the suburb where the owner sold the property
 Price: Price for which the owner sold the property.
 
 Bedrooms: Number of bedrooms
-![graph_visualiser-1683963992323](https://github.com/kartikparlikar/HouseProperty_Sales_Time_Series_SQL_Analysis/assets/120629160/486e4df7-fc16-4ba8-9ae9-9f383eb07858)
+
